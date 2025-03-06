@@ -1,4 +1,4 @@
-# Data Assistant
+# Data Assistant UI
 
 content
 
@@ -9,8 +9,8 @@ content
 Clone the repository and install the dependencies:
 
 ```bash
-git clone git@gitlab.com:navyx/data-analytics/data-assistant.git
-cd data-assistant
+git clone git@gitlab.com:navyx/data-analytics/data-assistant/data-assistant-ui.git
+cd data-assistant-ui
 pnpm install
 ```
 
