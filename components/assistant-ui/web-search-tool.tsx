@@ -15,7 +15,7 @@ export const WebSearchTool = makeAssistantToolUI<
   WebSearchResult
 >({
   toolName: "web_search",
-  render: ({ args, status }) => {
+  render: ({ args }) => {
     return <p>web_search({args.query})</p>;
   },
 });
